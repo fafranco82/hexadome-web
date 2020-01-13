@@ -1,0 +1,47 @@
+{
+    "forms": {
+        "login": "Ensaluti",
+        "register": "Registri",
+        "username": "Uzantnomo",
+        "email": "Retpoŝta adreso",
+        "confirmEmail": "Konfirmi retpoŝton",
+        "password": "Pasvorto",
+        "confirmPassword": "Konfirmi pasvorto",
+        "forgotPassword": "Ĉu vi forgesis vian pasvorton?",
+        "cancel": "Nuligi"
+    },
+    "nav": {
+        "about": "About",
+        "decks": "Decks",
+        "games": "{games} Games",
+        "help": "Help",
+        "howtoplay": "How to play",
+        "login": "Ensaluti",
+        "logout": "Eliri",
+        "play": "Ludi",
+        "profile": "Profile",
+        "register": "Registri",
+        "username": "Saluton, {name}!"
+    },
+    "messages": {
+        "register": "Saluton, {name}!",
+        "login": "Saluton, {name}!",
+        "logout": "Bye bye, {name}!"
+    },
+    "lobby": {
+        "currentgames": "Aktualaj ludoj",
+        "newgame": "Nova ludo",
+        "name": "Nomo",
+        "allowspectators": "Permesi spektantojn",
+        "startgame": "Komenci ludon",
+        "leavegame": "Forlasi ludon",
+        "selectdeck": "Elektu ludkartaron...",
+        "deckselected": "Elektita ludkartaro",
+        "players": "Ludantoj",
+        "spectators": "Spektantoj",
+        "chat": "Babilejo",
+        "newgamename": "Ludo de {name}",
+        "join": "Aliĝi",
+        "watch": "Vidi"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "forms": {
+        "login": "Identificarse",
+        "register": "Registrarse",
+        "username": "Nombre de usuario",
+        "email": "Dirección e-mail",
+        "confirmEmail": "Confirmar dirección",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "selectopt": "— Por favor, seleccione una opción —",
+        "cancel": "Cancelar"
+    },
+    "nav": {
+        "about": "Sobre la web",
+        "decks": "Mazos",
+        "games": "{games} Partidas",
+        "help": "Ayuda",
+        "howtoplay": "Cómo jugar",
+        "login": "Identificarse",
+        "logout": "Salir",
+        "play": "Jugar",
+        "profile": "Perfil",
+        "register": "Registrarse",
+        "username": "¡Hola, {name}!"
+    },
+    "messages": {
+        "register": "¡Bienvenido, {name}!",
+        "login": "¡Hola, {name}!",
+        "logout": "¡Adiós, {name}!"
+    },
+    "lobby": {
+        "currentgames": "Partidas actuales",
+        "newgame": "Nueva partida",
+        "name": "Nombre",
+        "allowspectators": "Permitir espectadores",
+        "villain": "Enemigo",
+        "mode": "Modo",
+        "modular": "Conjunto Modulable",
+        "standard": "Estándar",
+        "expert": "Experto",
+        "randommodular": "Aleatorio",
+        "startgame": "Empezar partida",
+        "leavegame": "Dejar partida",
+        "selectdeck": "Seleccionar mazo...",
+        "deckselected": "Mazo seleccionado",
+        "scenario": "Escenario",
+        "players": "Jugadores",
+        "spectators": "Espectadores",
+        "chat": "Chat",
+        "newgamename": "Partida de {name}",
+        "join": "Unirse",
+        "watch": "Ver"
+    }
+}

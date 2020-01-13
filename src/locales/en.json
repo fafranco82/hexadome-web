@@ -1,0 +1,55 @@
+{
+    "forms": {
+        "login": "Login",
+        "register": "Register",
+        "username": "Username",
+        "email": "E-mail Address",
+        "confirmEmail": "Confirm E-mail",
+        "password": "Password",
+        "confirmPassword": "Confirm password",
+        "forgotPassword": "Forgot your password?",
+        "selectopt": "— Please select an option —",
+        "cancel": "Cancel"
+    },
+    "nav": {
+        "about": "About",
+        "decks": "Decks",
+        "games": "{games} Games",
+        "help": "Help",
+        "howtoplay": "How to play",
+        "login": "Login",
+        "logout": "Logout",
+        "play": "Play",
+        "profile": "Profile",
+        "register": "Register",
+        "username": "Hello, {name}!"
+    },
+    "messages": {
+        "register": "Hello, {name}!",
+        "login": "Hello, {name}!",
+        "logout": "Bye bye, {name}!"
+    },
+    "lobby": {
+        "currentgames": "Current games",
+        "newgame": "New game",
+        "name": "Name",
+        "allowspectators": "Allow spectators",
+        "villain": "Villain",
+        "mode": "Mode",
+        "modular": "Modular set",
+        "standard": "Standard",
+        "expert": "Expert",
+        "randommodular": "Random modular set",
+        "startgame": "Start game",
+        "leavegame": "Leave game",
+        "selectdeck": "Select deck...",
+        "deckselected": "Deck selected",
+        "scenario": "Scenario",
+        "players": "Players",
+        "spectators": "Spectators",
+        "chat": "Chat",
+        "newgamename": "{name}'s game",
+        "join": "Join",
+        "watch": "Watch"
+    }
+}

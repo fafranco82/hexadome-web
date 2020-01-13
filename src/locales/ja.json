@@ -1,0 +1,47 @@
+{
+    "forms": {
+        "login": "ログイン",
+        "register": "登録",
+        "username": "ユーザー名",
+        "email": "メールアドレス",
+        "confirmEmail": "確認",
+        "password": "パスワード",
+        "confirmPassword": "確認",
+        "forgotPassword": "パスワードを忘れましたか？",
+        "cancel": "キャンセルする"
+    },
+    "nav": {
+        "about": "About",
+        "decks": "Decks",
+        "games": "{games} Games",
+        "help": "Help",
+        "howtoplay": "How to play",
+        "login": "ログイン",
+        "logout": "ログアウト",
+        "play": "遊ぶ",
+        "profile": "Profile",
+        "register": "登録",
+        "username": "{name}、こんにちは！"
+    },
+    "messages": {
+        "register": "ユーザーの作成が完了しました",
+        "login": "{name} でログイン中",
+        "logout": "Bye bye, {name}!"
+    },
+    "lobby": {
+        "currentgames": "現在のゲーム",
+        "newgame": "新しいゲーム",
+        "name": "名前",
+        "allowspectators": "観客を許可する",
+        "startgame": "ゲームを始める",
+        "leavegame": "ゲームを終了",
+        "selectdeck": "デッキを選ぶ…",
+        "deckselected": "選んだデック",
+        "players": "選手",
+        "spectators": "観客",
+        "chat": "チャット",
+        "newgamename": "{name}のゲーム",
+        "join": "参加する",
+        "watch": "見る"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "forms": {
+        "login": "Login",
+        "register": "Register",
+        "username": "Username",
+        "email": "E-mail Address",
+        "confirmEmail": "Confirm E-mail",
+        "password": "Password",
+        "confirmPassword": "Confirm password",
+        "forgotPassword": "Hai dimenticato la password?",
+        "cancel": "Annullare"
+    },
+    "nav": {
+        "about": "About",
+        "decks": "Decks",
+        "games": "{games} Games",
+        "help": "Help",
+        "howtoplay": "How to play",
+        "login": "Login",
+        "logout": "Logout",
+        "play": "Giocare",
+        "profile": "Profile",
+        "register": "Register",
+        "username": "Hello, {name}!"
+    },
+    "messages": {
+        "register": "Hello, {name}!",
+        "login": "Hello, {name}!",
+        "logout": "Bye bye, {name}!"
+    },
+    "lobby": {
+        "currentgames": "Giochi attuali",
+        "newgame": "Nuovo gioco",
+        "name": "Nome",
+        "allowspectators": "Permettere agli spettatori",
+        "startgame": "Iniziare il gioco",
+        "leavegame": "Lasciare il gioco",
+        "selectdeck": "Selezionare il mazzo",
+        "deckselected": "Mazzo selezionato",
+        "players": "Giocatori",
+        "spectators": "Spettatori",
+        "chat": "Chat",
+        "newgamename": "Gioco di {name}",
+        "join": "Unirsi",
+        "watch": "Vedere"
+    }
+}

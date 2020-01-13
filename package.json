@@ -1,0 +1,51 @@
+{
+  "name": "hexadome-web",
+  "version": "0.0.1",
+  "description": "Web frontend of hexadome-server, a game engine for Aristeia",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "axios": "^0.19.0",
+    "bootstrap-vue": "^2.0.0-rc.24",
+    "bootswatch": "^4.3.1",
+    "core-js": "^2.6.5",
+    "draggable-vue-directive": "^2.0.6",
+    "honeycomb-grid": "^3.1.1",
+    "konva": "^4.0.18",
+    "socket.io-client": "^2.2.0",
+    "vee-validate": "^2.2.11",
+    "vue": "^2.6.10",
+    "vue-chat-scroll": "^1.3.5",
+    "vue-gravatar": "^1.3.0",
+    "vue-i18n": "^8.11.2",
+    "vue-konva": "^2.1.1",
+    "vue-lodash": "^2.0.2",
+    "vue-moment": "^4.0.0",
+    "vue-notification": "^1.3.16",
+    "vue-panzoom": "^1.1.0",
+    "vue-router": "^3.0.3",
+    "vue-socket.io-extended": "^3.2.1",
+    "vue-svgicon": "^4.0.0-alpha.3",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "@vue/eslint-config-prettier": "^4.0.1",
+    "@yzfe/vue-svgicon-loader": "^1.0.0-alpha.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
